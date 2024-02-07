@@ -1,8 +1,8 @@
 <?php
-$servername = "localhost";
-$username = "product";
-$password = "";
-$dbname = "try";
+$servername = "hijazishop-server.mysql.database.azure.com";
+$username = "nhcsdvjnaz";
+$password = "A7L3HWL50W3W827R$";
+$dbname = "hijazishop-database";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
