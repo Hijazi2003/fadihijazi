@@ -1,7 +1,7 @@
 <?php
 $servername = "hijazishop-server.mysql.database.azure.com";
-$username = "nhcsdvjnaz";
-$password = "A7L3HWL50W3W827R$";
+$username = "vhxvzhvzjc";
+$password = "MA67VYU873MWJ6B0$";
 $dbname = "hijazishop-database";
 
 // Create connection
